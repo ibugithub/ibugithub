@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Data Structure and Algorithm
+- 🌱 I’m currently learning Full Stack Web Dev
+- 🌱 Learning Data Structure and Algorithm
 - 🔭 want to work on Aritficial intelligence
 
 <!--
