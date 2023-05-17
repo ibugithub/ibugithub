@@ -1,3 +1,5 @@
+![Banner Image](https://ibugithub.github.io/myReadme.md-imgages/img.png)
+
 ### Hi there 👋
 - 🌱 I’m currently learning Full Stack Web Dev
 - 🌱 Learning Data Structure and Algorithm
