@@ -1,4 +1,9 @@
-![Banner Image](https://ibugithub.github.io/myReadme.md-imgages/img.png)
+![Banner Image]()
+
+<p align="center">
+  <img src="https://ibugithub.github.io/myReadme.md-imgages/img.png" alt="Profile Picture">
+</p>
+
 
 ### Hi there 👋
 - 🌱 I’m currently learning Full Stack Web Dev
