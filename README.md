@@ -23,9 +23,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdibrahimibuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdibrahimibuu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md ibrahim hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md ibrahim hossain" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ibrahimibu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ibrahimibu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ibrahimibu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibrahimibu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md ibrahim hossain" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ibrahimibu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ibrahimibu" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/outsideworkibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibrahimibu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
