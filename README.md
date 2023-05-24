@@ -12,7 +12,7 @@
 - 🔍 You can find me on [Linkedin](https://www.linkedin.com/in/ibuu/) or on [Twitter](https://twitter.com/mdibrahimibuu).
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibugithub&label=Profile%20views&color=0e75b6&style=flat" alt="ibugithub" /> </p>
 
