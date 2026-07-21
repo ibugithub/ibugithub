@@ -3,15 +3,6 @@
 </p>
 
 
-- 🎓 I’m currently learning Full Stack Web Dev at Microverse.
-- 🔥 Learning Data Structure and Algorithm.
-- 🌍 Passionate about creating amazing and exceptional projects using my coding skills.
-- 👯 I’m looking to collaborate on Open Source Community.
-- 🧠 Want to work on Aritficial intelligence in the near future.
-- 🌌 I'm always curious about the mystrious world of Science and the vast universe.
-- 📚 passionately driven to explore the wonders of mathematics and its secrets.
-- 🧪 I wish I had the time and opportunity to delve into the captivating realm of quantum physics.
-- 🌿 When I'm not coding, you can find me finding bugs in my fruit garden, meticulously inspecting each tree for bugs and ensuring a thriving harvest. 🍎🍊🍇
 - 🔍 You can find me on [Linkedin](https://www.linkedin.com/in/ibuu/) or on [Twitter](https://twitter.com/mdibrahimibuu).
 
 
