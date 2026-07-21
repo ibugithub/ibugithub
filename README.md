@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://ibugithub.github.io/myReadme.md-imgages/img.png" alt="Profile Picture" style="width: 100%;">
-</p>
+
 
 
 - 🔍 You can find me on [Linkedin](https://www.linkedin.com/in/ibuu/) or on [Twitter](https://twitter.com/mdibrahimibuu).
