@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibugithub" alt="ibugithub" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mdibrahimibuu" target="blank"><img src="https://img.shields.io/twitter/follow/mdibrahimibuu?logo=twitter&style=for-the-badge" alt="mdibrahimibuu" /></a> </p>
 
 ### Connect with me
 
